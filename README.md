@@ -12,7 +12,7 @@
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />  
 </a>  </div>
 
-Cursando Bacharelado em Sistemas de Informação (2º período – UNIPAM) e desenvolvedora fullstack em formação, sou motivada pela resolução de problemas e pelo impacto positivo que a tecnologia pode trazer. 💙
+Cursando Bacharelado em Sistemas de Informação (3º período – UNIPAM), desenvolvedora em formação, sou motivada pela resolução de problemas e pelo impacto positivo que a tecnologia pode trazer. 💙
  ---
 
 <div align="center">  
@@ -35,8 +35,8 @@ Cursando Bacharelado em Sistemas de Informação (2º período – UNIPAM) e des
   <img width="12" />  
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" height="30" alt="azure logo" />  
   <img width="12" />  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" height="30" alt="docker logo" />  
-  <img width="12" />  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="30" alt="docker logo" />  
+  <img width="12" />           
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" height="30" alt="figma logo" />  
   <img width="12" />  </div> 
   
